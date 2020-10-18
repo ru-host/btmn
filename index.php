@@ -10,7 +10,7 @@
     	<link rel="apple-touch-icon" href="/img/favicon.png">
 	<link rel="stylesheet" media="all" href="/css/style.css"  />
 </head>
-<body style="margin: 0; background: #fff; overflow: hidden;">
+<body>
   <h1 style="display:block;font-family:system; font-size:18px; color:black;margin: 8px 0 16px 16px; ">app7347272</h1> 
 </body>
 </html>
