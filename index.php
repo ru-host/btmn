@@ -11,6 +11,6 @@
 	<link rel="stylesheet" media="all" href="/css/style.css"  />
 </head>
 <body id="body.main" style="display: block;border: 4px solid silver;width: 808px;height: 608px;margin: 0;padding: 0;background: #fff;overflow: hidden;">
-  <h1 id="h1.main" style="display: block;font-family: Tahoma;font-size: 16px;font-weight:light;color: gray;margin: 8px;">&nbsp; BTMN</h1> 
+  <h1 id="h1.main" style="display: block;font-family: Tahoma;font-size: 13px;font-weight:light;color: gray;margin: 8px;">&nbsp; Темнейший...</h1> 
 </body>
 </html>
