@@ -11,6 +11,6 @@
 	<link rel="stylesheet" media="all" href="style.css"  />
 </head>
 <body style="margin: 0; background: #fff; overflow: hidden;">
-  <h1 style="font-family: tahoma; font-size:3em; color:yellow;padding: 0.33em; "> app.btmn.ru</h1> 
+  <h1 style="display:block;font-family: tahoma; font-size:1.33em; color:navy;margin: 0 0 0 48px; ">ВКОНТАКТЕ</h1> 
 </body>
 </html>
