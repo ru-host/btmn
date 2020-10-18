@@ -10,7 +10,7 @@
     	<link rel="apple-touch-icon" href="favicon.png">
 	<link rel="stylesheet" media="all" href="style.css"  />
 </head>
-<body style="margin: 0; background: #000; overflow: hidden;">
+<body style="margin: 0; background: #fff; overflow: hidden;">
   <h1>APP.BTMN.RU</h1> 
 </body>
 </html>
