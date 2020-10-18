@@ -10,8 +10,8 @@ body {
     }
 #h1.main {
       display: block;
-      font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif; 
+      font-family: Verdana; 
       font-size: 16px; 
-      color: black;
+      color: blue;
       margin: 8px;
       }
