@@ -11,6 +11,6 @@
 	<link rel="stylesheet" media="all" href="style.css"  />
 </head>
 <body style="margin: 0; background: #fff; overflow: hidden;">
-  <h1 style="display:block;font-family: impact; font-size:24px; color:silver;margin: 8px 0 16px 16px; ">App:7347272</h1> 
+  <h1 style="display:block;font-family:system; font-size:18px; color:black;margin: 8px 0 16px 16px; ">app7347272</h1> 
 </body>
 </html>
