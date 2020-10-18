@@ -8,7 +8,7 @@ body {
       background: #fff; 
       overflow: hidden;
     }
-#h1.main {
+#h1.main h1{
       display: block;
       font-family: Verdana; 
       font-size: 16px; 
