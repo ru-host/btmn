@@ -11,6 +11,6 @@
 	<link rel="stylesheet" media="all" href="/css/style.css"  />
 </head>
 <body id="body.main" style="display: block;border: 4px solid silver;width: 808px;height: 608px;margin: 0;padding: 0;background: #fff;overflow: hidden;">
-  <h1 id="h1.main" style="display: block;font-family: Arial;font-size: 18px;color: orange;margin: 8px;">&nbsp; Лига Справедливости</h1> 
+  <h1 id="h1.main" style="display: block;font-family: Arial;font-size: 18px;color: orange;margin: 8px;">&nbsp; BTMN:DarkApp</h1> 
 </body>
 </html>
