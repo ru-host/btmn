@@ -11,6 +11,6 @@
 	<link rel="stylesheet" media="all" href="/css/style.css"  />
 </head>
 <body>
-  <h1 id="h1.main" style-"display: block;font-family: Verdana;font-size: 16px;color: blue;margin: 8px;"> &nbsp;&nbsp; BTMN.APP</h1> 
+  <h1 id="h1.main" style="display: block;font-family: Verdana;font-size: 16px;color: blue;margin: 8px;"> &nbsp;&nbsp; BTMN.APP</h1> 
 </body>
 </html>
