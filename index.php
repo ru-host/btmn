@@ -11,6 +11,6 @@
 	<link rel="stylesheet" media="all" href="/css/style.css"  />
 </head>
 <body>
-  <h1 style="display:block;font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif; font-size: 24px; color:black;margin: 8px 0 16px 16px; ">BTMN: Dark App</h1> 
+  <h1 id="h1.main">BTMN.APP</h1> 
 </body>
 </html>
