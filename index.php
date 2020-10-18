@@ -11,6 +11,6 @@
 	<link rel="stylesheet" media="all" href="style.css"  />
 </head>
 <body style="margin: 0; background: #fff; overflow: hidden;">
-  <h1>APP.BTMN.RU</h1> 
+  <h1 style="font-family: tahoma; font-size:3em; color:yellow;padding: 0.33em; "> app.btmn.ru</h1> 
 </body>
 </html>
