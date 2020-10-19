@@ -21,7 +21,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;[3] . . . . . . . . . . <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;[4] . . . . . . . . . . <br/>
 	</p>
-<footer  id="footer.main" style="display:block;position:absolute;bottom:0px;height:32px;width:800px;font-family: Tahoma;font-size: 14px;color: #597da3;background: #dae2ea;margin:0;">
+<footer  id="footer.main" style="display:block;position:absolute;bottom:0px;height:48px;width:800px;font-family: Tahoma;font-size: 14px;color: #597da3;background: #dae2ea;margin:0;">
 	<br/>&nbsp;&nbsp;
 <a href="https://github.com/vhs69/btmn">GitHub</a> &nbsp;|&nbsp;
 <a href="https://vk.com/app7347272">Application</a> &nbsp;|&nbsp;
