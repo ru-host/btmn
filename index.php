@@ -24,7 +24,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://whatsapp.com/btmn.ru">WhatsApp</a><br/>
 &nbsp;&nbsp;&nbsp;&nbsp; <a href="#onemore">...</a><br/>
 	</p>
-<footer  id="footer.main" style="display:block;position:absolute;bottom:0px;height:52px;width:800px;font-family: Tahoma;font-size: 14px;color: #597da3;background: #dae2ea;margin:0;">
+<footer  id="footer.main" style="display:block;position:absolute;bottom:0px;left:1px;top:549px;height:52px;width:800px;font-family: Tahoma;font-size: 14px;color: #597da3;background: #dae2ea;margin:0;">
 	<br/>&nbsp;&nbsp;
 <a href="https://github.com/vhs69/btmn">GitHub</a> &nbsp;|&nbsp;
 <a href="https://vk.com/app7347272">Application</a> &nbsp;|&nbsp;
