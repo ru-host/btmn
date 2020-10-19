@@ -1,1 +1,1 @@
-<?php echo 'USERS' ?>
+<?php echo "USERS"; ?>
