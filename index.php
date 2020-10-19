@@ -12,7 +12,7 @@
 </head>
 <body id="body.main" style="display: block;border: 1px solid #dae2ea;width: 808px;height: 608px;margin: 0;padding: 0;font-family: Tahoma;font-size: 12px;background: #fff;overflow: hidden;">
 <header>
-  <h1 id="h1.main" style="display: block;font-family: Arial;font-size: 12px;color: #597da3;margin: 8px;">&nbsp;&nbsp; СЕРВИСЫ:</h1>
+  <h1 id="h1.main" style="display: block;font-family: Arial;font-size: 12px;color: #597da3;margin: 8px;">&nbsp;&nbsp; [+]</h1>
 </header>
 	<p id="p.main" style="display: block;font-family: Tahoma;font-size: 12px;color: #456;margin: 0;">
 &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://vk.com/btmn_ru">ВКонтакте</a><br/>
