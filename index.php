@@ -11,6 +11,17 @@
 	<link rel="stylesheet" media="all" href="/css/style.css"  />
 </head>
 <body id="body.main" style="display: block;border: 4px solid #dae2ea;width: 808px;height: 608px;margin: 0;padding: 0;background: #fff;overflow: hidden;">
-  <h1 id="h1.main" style="display: block;font-family: Arial;font-size: 12px;color: #597da3;margin: 8px;">&nbsp; Error 404:&nbsp;&nbsp;Page Not Found</h1> 
+<header>
+  <h1 id="h1.main" style="display: block;font-family: Arial;font-size: 12px;color: #597da3;margin: 8px;">&nbsp; Error 404:&nbsp;&nbsp;Page Not Found</h1>
+</header>
+	. . . . . . . . . .<br/>
+	. . . . . . . . . .<br/>
+	. . . . . . . . . .<br/>
+	. . . . . . . . . .<br/>
+<footer>
+	<a href="https://github.com/vhs69/btmn">Powered by GitHub</a> |
+	<a href="https://vk.com/app7347272">VK.App</a> |
+	<a href="https://btmn.ru/">by BTMN.RU</a>
+</footer>	
 </body>
 </html>
