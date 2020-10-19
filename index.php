@@ -29,7 +29,7 @@
 <a href="https://github.com/vhs69/btmn">GitHub</a> &nbsp;|&nbsp;
 <a href="https://vk.com/app7347272">Application</a> &nbsp;|&nbsp;
 <a href="http://btmn.herokuapp.com">Hosting</a> &nbsp;|&nbsp;
-<a href="http://app.btmn.ru/help/">Help</a> &nbsp;|&nbsp;
+<a href="https://github.com/vhs69/btmn/wiki">Wiki</a> &nbsp;|&nbsp;
 <a href="https://btmn.ru/">Development</a>&nbsp;
 	<br/>
 </footer>	
